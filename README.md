@@ -1,0 +1,2 @@
+# gitPractice
+For teaching git
